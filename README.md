@@ -1,2 +1,2 @@
-# TwoSum
-#Saw this solution to twosum and liked it way more than mine so I'm saving it here. Nothing crazy
+# Leetcode Solutions
+#This is a place to store leetcode solutions that I either come up with or see 
